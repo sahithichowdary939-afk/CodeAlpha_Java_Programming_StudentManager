@@ -1,5 +1,5 @@
 # CodeAlpha_Java_Programming_StudentManager
-# 🎓 Student Grade Management System
+#  Student Grade Management System
 
 A Java-based console application developed using Object-Oriented Programming (OOP) concepts to manage student academic records efficiently.<br>
 
@@ -15,7 +15,7 @@ The system allows users to:<br>
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The **Student Grade Management System** is designed to simplify the process of managing student performance records.<br>
 
@@ -31,7 +31,7 @@ The application provides a menu-driven interface where users can select differen
 
 ---
 
-## ✨ Features
+##  Features
 
 - Add student details<br>
 - Store marks for multiple subjects<br>
@@ -46,7 +46,7 @@ The application provides a menu-driven interface where users can select differen
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|----------|
@@ -58,7 +58,7 @@ The application provides a menu-driven interface where users can select differen
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 StudentGradeManagement/
@@ -71,7 +71,7 @@ StudentGradeManagement/
 
 ---
 
-## 📄 File Description
+##  File Description
 
 ### 1. Student.java
 
@@ -127,7 +127,7 @@ Responsible for:<br>
 
 ---
 
-## ▶ How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Install Java
 
@@ -159,7 +159,7 @@ java Main
 
 ---
 
-## 🖥 Sample Output
+##  Sample Output
 
 ```text
 ====== Student Grade Management System ======
@@ -208,7 +208,7 @@ Minimum Marks : 78
 
 ---
 
-## 📚 Concepts Learned
+##  Concepts Learned
 
 ### Core Java Concepts
 
@@ -236,7 +236,7 @@ Minimum Marks : 78
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Future enhancements for this project may include:<br>
 
@@ -252,18 +252,8 @@ Future enhancements for this project may include:<br>
 
 ---
 
-## 👩‍💻 Author
-
+##  Author
 **Name:** C Sahithi<br>
-
-**Project Type:** Mini Project<br>
-
 **Technology:** Java<br>
 
 ---
-
-## ⭐ Repository Support
-
-If you found this project useful:<br>
-
-Give this repository a ⭐ on GitHub
